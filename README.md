@@ -49,29 +49,31 @@
 2. Youtube
 3. Курсы
 
-Книги:
+**Книги**:
 
 [сайт](https://pythonworld.ru/samouchitel-python)
 
 [список книг](https://habr.com/ru/companies/sberbank/articles/679852/)
 
-Youtube:
+**Youtube**:
 
 [канал](https://www.youtube.com/watch?v=34Rp6KVGIEM)
 
-Курсы:
+
+**Курсы**:
 
 [hexlet (начальный уровень)](https://ru.hexlet.io/courses/python-basics) бесплатно
+
 
 [hexlet (курс разработчика, не обязательно доходить до конца)](https://ru.hexlet.io/programs/python) платно, оплата помесячно
 
 ### 🚀🚀🚀 Вход в автотестирование [&uarr;](#Содержание)
 
-Youtube:
+**Youtube**:
 
-[канал]([https://www.youtube.com/watch?v=34Rp6KVGIEM](https://www.youtube.com/watch?v=m7SvKhsJrNg))
+[канал](https://www.youtube.com/watch?v=34Rp6KVGIEM](https://www.youtube.com/watch?v=m7SvKhsJrNg))
 
-Курсы:
+**Курсы**:
 
 [яндекс практика (Курс «Тестирование веб-приложений на Python»)](https://practicum.yandex.ru/qa-automation-web-python/) платно
 
@@ -87,4 +89,5 @@ Youtube:
 Рано или поздно вы столкнетесь с работой в терминале
 
 [репозиторий]([https://habr.com/ru/articles/215117/](https://github.com/berpress/Linux-Commands-Cheat-Sheet))
+
 [сайт]([https://www.youtube.com/watch?v=C9T_7D12URI&t=17s](https://losst.pro/42-komandy-linux-kotorye-vy-dolzhny-znat)https://losst.pro/42-komandy-linux-kotorye-vy-dolzhny-znat)
