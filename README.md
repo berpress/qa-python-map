@@ -131,7 +131,10 @@ Pytest имеет мощный функционал:
 Рекомендую совоить эту тему, после того, как пройдете основные темы
 
 [продвинутый pytest](https://www.youtube.com/watch?v=7KgihdKTWY4&t=379s)
+
 [Мастер-класс «PyTest на примере UI-тестов»](https://www.youtube.com/watch?v=lQQciBSiias&t=2587s)
+
 [Pytest Plugins: Как расширить функционал тестового фреймворка через плагины](https://www.youtube.com/watch?v=p3XUv8C8FKo&t=45s)
+
 [документация](https://docs.pytest.org/en/7.3.x/)
 
