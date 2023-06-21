@@ -88,6 +88,6 @@
 
 Рано или поздно вы столкнетесь с работой в терминале
 
-[репозиторий](https://habr.com/ru/articles/215117/](https://github.com/berpress/Linux-Commands-Cheat-Sheet))
+[репозиторий](https://github.com/berpress/Linux-Commands-Cheat-Sheet)
 
 [сайт](https://www.youtube.com/watch?v=C9T_7D12URI&t=17s](https://losst.pro/42-komandy-linux-kotorye-vy-dolzhny-znat)https://losst.pro/42-komandy-linux-kotorye-vy-dolzhny-znat)
