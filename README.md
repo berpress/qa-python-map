@@ -90,4 +90,12 @@
 
 [репозиторий](https://github.com/berpress/Linux-Commands-Cheat-Sheet)
 
-[сайт](https://www.youtube.com/watch?v=C9T_7D12URI&t=17s](https://losst.pro/42-komandy-linux-kotorye-vy-dolzhny-znat)https://losst.pro/42-komandy-linux-kotorye-vy-dolzhny-znat)
+[сайт c описанием команд](https://losst.pro/42-komandy-linux-kotorye-vy-dolzhny-znat)
+
+### 🚀🚀 Docker [&uarr;](#Содержание)
+
+Docker — это программное обеспечение для автоматизации развёртывания и управления приложениями в средах с поддержкой контейнеризации.
+
+[50 вопросов по Docker, которые задают на собеседованиях, и ответы на них]([https://github.com/berpress/Linux-Commands-Cheat-Sheet](https://habr.com/ru/companies/southbridge/articles/528206/))
+
+[описание docker и примеры использования](https://techrocks.ru/2021/10/17/beginners-guide-to-docker/)
